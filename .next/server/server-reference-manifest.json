@@ -1,0 +1,268 @@
+{
+  "node": {
+    "d8d5f317babc51fdbd0a5d38d2ca39849ae234d6": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/auth/firebase/sign-in/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/auth/firebase/sign-up/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/crypto/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/assistant/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cassistant%5C%5Cactions.js%22%2C%5B%22getUIStateFromAIState%22%2C%22getAnswer%22%2C%22%24%24ACTION_0%22%2C%22AI%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Cnode_modules%5C%5Cai%5C%5Crsc%5C%5Cdist%5C%5Crsc-server.mjs%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/not-found": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc",
+        "app/auth/firebase/sign-in/page": "rsc",
+        "app/auth/firebase/sign-up/page": "rsc",
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/crypto/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/assistant/page": "rsc",
+        "app/not-found": "rsc"
+      }
+    },
+    "55f6515ebeaed2b957a691f4275a33194f467050": {
+      "workers": {
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/auth/firebase/sign-in/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/auth/firebase/sign-up/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/analytics/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/e-commerce/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/assistant/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/not-found": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser",
+        "app/auth/firebase/sign-in/page": "action-browser",
+        "app/auth/firebase/sign-up/page": "action-browser",
+        "app/dashboard/analytics/page": "action-browser",
+        "app/dashboard/crypto/page": "action-browser",
+        "app/dashboard/e-commerce/page": "action-browser",
+        "app/dashboard/assistant/page": "action-browser",
+        "app/not-found": "action-browser"
+      }
+    },
+    "6a1326c9d74eb460fecf38c9c3923d6672f82a35": {
+      "workers": {
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/crypto/page": "action-browser",
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "b4c94fcb567ae439989d9ae4e81187ab2e8321da": {
+      "workers": {
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/crypto/page": "action-browser",
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "c626072a66d4c6e2f9fafa43572feef356a28494": {
+      "workers": {
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/crypto/page": "action-browser",
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "d0806068a87aa2af1d94c4fb72f5e69ded34a807": {
+      "workers": {
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/crypto/page": "action-browser",
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "59a094512365fafd1e8310630afdbe5372f12a8a": {
+      "workers": {
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/crypto/page": "action-browser"
+      }
+    },
+    "0389c9bc188c00fb0b32588500d1b6a83b62f5ee": {
+      "workers": {
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/crypto/page": "action-browser"
+      }
+    },
+    "7836ba792e0c9bbbf5016a379ce810bf9890c869": {
+      "workers": {
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/crypto/page": "action-browser"
+      }
+    },
+    "3a0c60f5d405cfee96867a797271877cbcc80715": {
+      "workers": {
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/crypto/page": "action-browser",
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "81886407d621a04a9e6a5b5a7a7eb0d9f731b4a1": {
+      "workers": {
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/crypto/page": "action-browser",
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "841726b28466215176f84772a3959cf60b8b6982": {
+      "workers": {
+        "app/dashboard/analytics/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/e-commerce/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/crypto/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Capp%5C%5Cactions.js%22%2C%5B%22%24%24ACTION_0%22%2C%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchMarketData%22%2C%22fetchWallet%22%2C%22fetchWalletProfile%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cset-settings.js%22%2C%5B%22setSettings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/dashboard/analytics/page": "action-browser",
+        "app/dashboard/e-commerce/page": "action-browser",
+        "app/dashboard/page": "action-browser",
+        "app/dashboard/crypto/page": "action-browser"
+      }
+    },
+    "69da866e58da4546235b57de3cfb2e086fe418d0": {
+      "workers": {
+        "app/dashboard/assistant/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cassistant%5C%5Cactions.js%22%2C%5B%22getUIStateFromAIState%22%2C%22getAnswer%22%2C%22%24%24ACTION_0%22%2C%22AI%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Cnode_modules%5C%5Cai%5C%5Crsc%5C%5Cdist%5C%5Crsc-server.mjs%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/assistant/page": "rsc"
+      }
+    },
+    "72222d09aa27aca3c5a20227855e0384ea1bb388": {
+      "workers": {
+        "app/dashboard/assistant/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cassistant%5C%5Cactions.js%22%2C%5B%22getUIStateFromAIState%22%2C%22getAnswer%22%2C%22%24%24ACTION_0%22%2C%22AI%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Cnode_modules%5C%5Cai%5C%5Crsc%5C%5Cdist%5C%5Crsc-server.mjs%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/assistant/page": "rsc"
+      }
+    },
+    "8ba54927705a0efe2189067d9bb909c2d828bd3a": {
+      "workers": {
+        "app/dashboard/assistant/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cassistant%5C%5Cactions.js%22%2C%5B%22getUIStateFromAIState%22%2C%22getAnswer%22%2C%22%24%24ACTION_0%22%2C%22AI%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Cnode_modules%5C%5Cai%5C%5Crsc%5C%5Cdist%5C%5Crsc-server.mjs%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/assistant/page": "rsc"
+      }
+    },
+    "ccd3c9c37976f32fe3fb38fa8cab08cd1e69e9ea": {
+      "workers": {
+        "app/dashboard/assistant/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cassistant%5C%5Cactions.js%22%2C%5B%22getUIStateFromAIState%22%2C%22getAnswer%22%2C%22%24%24ACTION_0%22%2C%22AI%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Cnode_modules%5C%5Cai%5C%5Crsc%5C%5Cdist%5C%5Crsc-server.mjs%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/assistant/page": "rsc"
+      }
+    },
+    "89fe7f9da752fbd515cab5e54df6aeb086a1b130": {
+      "workers": {
+        "app/dashboard/assistant/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cassistant%5C%5Cactions.js%22%2C%5B%22getUIStateFromAIState%22%2C%22getAnswer%22%2C%22%24%24ACTION_0%22%2C%22AI%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Cnode_modules%5C%5Cai%5C%5Crsc%5C%5Cdist%5C%5Crsc-server.mjs%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/assistant/page": "rsc"
+      }
+    },
+    "1d92e2babfd928e9d79bcaf9cf8f66cca6a2175a": {
+      "workers": {
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/crypto/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/page": "rsc",
+        "app/dashboard/crypto/page": "rsc"
+      }
+    },
+    "38dcbc4f652cff8f00327b6ada0ffef4ca88e732": {
+      "workers": {
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/crypto/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/page": "rsc",
+        "app/dashboard/crypto/page": "rsc"
+      }
+    },
+    "3a3ab2ee6cbc52fb23a88617e3e2f3a44e5bf60f": {
+      "workers": {
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/crypto/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/page": "rsc",
+        "app/dashboard/crypto/page": "rsc"
+      }
+    },
+    "f6a276fe08c445e132918e4967dfca56b34e683f": {
+      "workers": {
+        "app/dashboard/analytics/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/e-commerce/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/crypto/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Cget-wallet.js%22%2C%5B%22initializeMoralis%22%2C%22getCachedWalletData%22%2C%22fetchWallet%22%2C%22%24%24ACTION_0%22%5D%5D%2C%5B%22D%3A%5C%5CDashboard%5C%5Cnextjs-template-javascript%5C%5Csrc%5C%5Clib%5C%5Csettings%5C%5Cget-settings.js%22%2C%5B%22getSettings%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/analytics/page": "rsc",
+        "app/dashboard/e-commerce/page": "rsc",
+        "app/dashboard/page": "rsc",
+        "app/dashboard/crypto/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "QsznevvhkjRwUr0qsDzPrLhblmwsuCsahzuKWlJF9qI="
+}
